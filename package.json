@@ -1,0 +1,21 @@
+{
+  "name": "monokai-hacker",
+  "displayName": "Monokai Hacker",
+  "description": "Monokai Hacker High Contrast Matrix Terminal",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Hacker-color-theme.json"
+      }
+    ]
+  }
+}
