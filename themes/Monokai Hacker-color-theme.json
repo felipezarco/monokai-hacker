@@ -336,7 +336,13 @@
       }
     },
     {
-      "scope": "string.quoted.double",
+      "scope": [
+        "string.quoted.double",
+        "string.template.js",
+        "string.template.ts",
+        "string.template.*",
+        "meta.var.expr.js"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#00FF66"
