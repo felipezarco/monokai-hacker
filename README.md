@@ -1,8 +1,10 @@
 # Monokai Hacker
 
-## VSCode Theme Monokai Hacker High Contrast Matrix Terminal
+### VSCode Theme Monokai Hacker High Contrast Matrix Terminal
 
 I have been using this theme for years.  
+
+![screenshot](https://user-images.githubusercontent.com/11004919/212457576-5ef8d9db-2918-400e-900e-f49a829a06c5.png)
 
 I've created it so that:
 
