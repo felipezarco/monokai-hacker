@@ -3,7 +3,8 @@
   "displayName": "Monokai Hacker",
   "description": "Monokai Hacker High Contrast Matrix Terminal",
   "publisher": "felipezarco",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
