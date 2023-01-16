@@ -18,7 +18,9 @@ I've created it so that:
 - It is colorful but only the necessary to be efficient
 - Green is the right colour if you write instructions to machines
 
-If you enjoy it, do not forget to star it ⭐ at https://github.com/felipezarco/monokai-hacker
+If you enjoy it, do not forget to star it ⭐ at https://github.com/felipezarco/monokai-hacker !
+
+Thanks
 
 ## About the Author
 
