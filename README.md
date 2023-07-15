@@ -1,5 +1,5 @@
 # Monokai Hacker
-## VSCode Theme Monokai Hacker High Contrast Matrix Terminal Colorblind
+## Monokai Hacker High Contrast Matrix Terminal Colorblind
 
 Are you searching for a Terminal/Monokai-inspired theme that still covers ALL Syntax and Keyword Highlighting?
 
@@ -18,7 +18,7 @@ I've created it so that:
 
 And yeah, green will always be the right colour if you write instructions to machines!
 
-(This theme is not specifically designed to address colorblind issues, but if you are colorblind, this theme should also work well for you.)
+(This theme is not specifically designed to address colorblind issues, but if you are colorblind, this theme will also work well for you.)
 
 Download at Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker
 
