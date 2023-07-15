@@ -1,26 +1,31 @@
 # Monokai Hacker
+## VSCode Theme Monokai Hacker High Contrast Matrix Terminal Colorblind
 
-### VSCode Theme Monokai Hacker High Contrast Matrix Terminal
+Are you searching for a Terminal/Monokai-inspired theme that still covers ALL Syntax and Keyword Highlighting?
 
-I have been using this theme for years. Mostly for Javascript and Typescript.
+This is for you.
+
+![image](https://github.com/felipezarco/monokai-hacker/assets/11004919/97e20b58-ecfe-44ec-aabc-db5c7dfa67e4)
+
+I've created it so that:
+- Covering all possible syntax highlights.
+- Clear visibility of keywords.
+- Systemic representation of numbers and logical operators (blue).
+- Easily identifiable and distinguishable parameters (classic Monokai orange).
+- Thicker formatting for double-quoted strings and template strings (similar to Ruby interpolation).
+- White is the default color, making it easy to spot when a variable turns into a keyword.
+- Maintaining a colorful theme while prioritizing efficiency.
+
+And yeah, green will always be the right colour if you write instructions to machines!
+
+(This theme is not specifically designed to address colorblind issues, but if you are colorblind, this theme should also work well for you.)
 
 Download at Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker
 
-![screenshot](https://user-images.githubusercontent.com/11004919/212457576-5ef8d9db-2918-400e-900e-f49a829a06c5.png)
 
-I've created it so that:
+If you enjoy using this theme, don't forget to give it a star ⭐ on [https://github.com/felipezarco/monokai-hacker](https://github.com/felipezarco/monokai-hacker)!
 
-- Keywords are shown clearly
-- Numbers and logical operators seem systemic
-- Parameters are easy to spot and track (classic monokai orange)
-- Strings are thicker when double-quoted or template (like ruby interpolation)
-- White is the default color, hence it is easy to spot whether a variable turned into a keyword or not
-- It is colorful but only the necessary to be efficient
-- Green is the right colour if you write instructions to machines
-
-If you enjoy it, do not forget to star it ⭐ at https://github.com/felipezarco/monokai-hacker !
-
-Thanks
+Thanks in advance!
 
 ## About the Author
 
