@@ -8,7 +8,7 @@ This is for you.
 
 ![image](https://github.com/felipezarco/monokai-hacker/assets/11004919/97e20b58-ecfe-44ec-aabc-db5c7dfa67e4)
 
-[![Marketplace](https://img.shields.io/badge/Marketplace-Monokai Hacker-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Monokai%20Hacker-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker)
 
 Download it for free at Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker
 
