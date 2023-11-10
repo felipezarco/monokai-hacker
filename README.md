@@ -1,29 +1,29 @@
 # Monokai Hacker
 ## Monokai Hacker High Contrast Matrix Terminal Colorblind
 
-Are you searching for a Terminal/Monokai-inspired theme that still covers ALL Syntax and Keyword Highlighting?
+Are you searching for a Terminal-like, Monokai-inspired, High-contrast theme but do not want to give up on complete syntax and keyword highlighting?
 
 This is for you.
 
 ![image](https://github.com/felipezarco/monokai-hacker/assets/11004919/97e20b58-ecfe-44ec-aabc-db5c7dfa67e4)
 
-I've created it so that:
-- Covering all possible syntax highlights.
+I've created it so that it has:
+- Coverage of all possible syntax highlights.
 - Clear visibility of keywords.
-- Systemic representation of numbers and logical operators (blue).
+- System-like representation of numbers and logical operators on blue.
 - Easily identifiable and distinguishable parameters (classic Monokai orange).
 - Thicker formatting for double-quoted strings and template strings (similar to Ruby interpolation).
-- White is the default color, making it easy to spot when a variable turns into a keyword.
-- Maintaining a colorful theme while prioritizing efficiency.
+- White as the default color, making it easy to spot when a variable turns into a keyword (turn other than white).
 
-And yeah, green will always be the right colour if you write instructions to machines!
+And yeah, green will always be the right color if you write instructions to machines!
 
-(This theme is not specifically designed to address colorblind issues, but if you are colorblind, this theme will also work well for you.)
+[![Download](https://img.shields.io/badge/Download-Monokai%20Hacker-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker)
 
 Download at Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker
 
+[![Give me a star](https://img.shields.io/badge/Give%20me%20a%20star-⭐-yellow.svg)](https://github.com/felipezarco/monokai-hacker)
 
-If you enjoy using this theme, don't forget to give it a star ⭐ on [https://github.com/felipezarco/monokai-hacker](https://github.com/felipezarco/monokai-hacker)!
+If you enjoy using this theme, don't forget to give it a star on [https://github.com/felipezarco/monokai-hacker](https://github.com/felipezarco/monokai-hacker)!
 
 Thanks in advance!
 
