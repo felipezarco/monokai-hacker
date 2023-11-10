@@ -8,6 +8,10 @@ This is for you.
 
 ![image](https://github.com/felipezarco/monokai-hacker/assets/11004919/97e20b58-ecfe-44ec-aabc-db5c7dfa67e4)
 
+[![Download](https://img.shields.io/badge/Download-Monokai%20Hacker-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker)
+
+Download at Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker
+
 I've created it so that it has:
 - Coverage of all possible syntax highlights.
 - Clear visibility of keywords.
@@ -33,10 +37,6 @@ Languages:
 12. Kotlin
 13. Rust
 14. C++
-
-[![Download](https://img.shields.io/badge/Download-Monokai%20Hacker-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker)
-
-Download at Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=felipezarco.monokai-hacker
 
 [![Give me a star](https://img.shields.io/badge/Give%20me%20a%20star-⭐-yellow.svg)](https://github.com/felipezarco/monokai-hacker)
 
