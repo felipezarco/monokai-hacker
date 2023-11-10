@@ -1,5 +1,6 @@
 # Monokai Hacker
-## Monokai Hacker High Contrast Matrix Terminal Colorblind
+
+### Monokai Hacker High Contrast Matrix Terminal Colorblind
 
 Are you searching for a Terminal-like, Monokai-inspired, High-contrast theme but do not want to give up on complete syntax and keyword highlighting?
 
